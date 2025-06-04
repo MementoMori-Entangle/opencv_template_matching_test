@@ -1,16 +1,4 @@
 # opencv_template_matching_test
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+MyMedicineManagement (my_medicine_management)の技術検証用リポジトリ  
+OpenCV4.11.0(2025年6月5日時点最新版)のテンプレートマッチング確認用(android)
