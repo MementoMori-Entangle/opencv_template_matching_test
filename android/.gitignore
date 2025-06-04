@@ -1,0 +1,71 @@
+gradle-wrapper.jar
+/.gradle
+/captures/
+/gradlew
+/gradlew.bat
+/local.properties
+GeneratedPluginRegistrant.java
+.cxx/
+
+# Remember to never publicly share your keystore.
+# See https://flutter.dev/to/reference-keystore
+key.properties
+**/*.keystore
+**/*.jks
+
+# Flutter/Dart build
+build/
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# macOS
+macos/Flutter/ephemeral/
+macos/Runner.xcworkspace/
+macos/Runner.xcodeproj/project.xcworkspace/
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/ephemeral/
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Runner.xcodeproj/project.xcworkspace/
+
+# Windows
+windows/flutter/ephemeral/
+
+# Linux
+linux/flutter/ephemeral/
+
+# Web
+web/generated_plugin_registrant.dart
+
+# その他
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Android local config
+android/local.properties
+android/key.properties
+
+# pub
+pubspec.lock
+
+# Native assets
+native_assets/
+
+# aar
+*.aar
+
+# so
+*.so
